@@ -1,7 +1,7 @@
 ### About Me
 My name is Ryan Wolf, and I recently graudated from UIUC with a BS in Computer Science.
-My broad interests include **machine learning** and **computer vision**.
-At Illinois, I did neural surface reconstruction research with [Professor Shenlong Wang](https://shenlong.web.illinois.edu/). My work as a part of that research can be viewed in my pinned repositories.
+My broad interests include **machine learning** and **computer vision**, though I do have a soft spot for anything GPU related.
+At Illinois, I did neural surface reconstruction research with [Professor Shenlong Wang](https://shenlong.web.illinois.edu/). My work as a part of that research can be viewed in my pinned repositories. You can also find some CUDA programs that I am proud of [here](https://github.com/ryantwolf/cuda-exercises).
 <!--
 **ryantwolf/ryantwolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
