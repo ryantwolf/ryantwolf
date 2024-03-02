@@ -2,7 +2,7 @@
 My name is Ryan Wolf, and I graduated from UIUC with a BS in Computer Science in December 2022.
 Now, I am a deep learning algorithm engineer at NVIDIA working on the NeMo framework.
 My broad interests include machine learning and anything GPU related.
-At Illinois, I did neural surface reconstruction research with [Professor Shenlong Wang](https://shenlong.web.illinois.edu/). My work as a part of that research can be viewed in my pinned repositories. You can also find some CUDA programs that I am proud of [here](https://github.com/ryantwolf/cuda-exercises).
+At Illinois, I did neural surface reconstruction research with [Professor Shenlong Wang](https://shenlong.web.illinois.edu/). My work as a part of that research can be viewed in my pinned repositories.
 <!--
 **ryantwolf/ryantwolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
